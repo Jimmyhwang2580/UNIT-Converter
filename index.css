@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    color: white;
+}
+
+#header{
+    background: dodgerblue;
+}
+#convert-title{
+    margin: 0;
+    padding: 5px;
+}
+#input-el{
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 10px auto;
+    font-size: 30px;
+    padding: 5px;
+}
+#convert-btn{
+    margin-bottom: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+#main{
+    background: lightcoral;
+    margin: 0 auto;
+    padding: 5px;
+}
+#section {
+    width: 350px;
+    border: 3px white solid;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin: 10px auto;
+    background: goldenrod;
+    
+}
+
+
+
